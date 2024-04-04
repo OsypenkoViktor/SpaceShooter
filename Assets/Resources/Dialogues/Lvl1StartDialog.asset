@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53bb23cb4be75e440815d3293ba9e7d4, type: 3}
+  m_Name: Lvl1StartDialog
+  m_EditorClassIdentifier: 
+  dialogName: Level1Start
+  dialogLines:
+  - character: {fileID: 11400000, guid: ddbdffcc0a065ef4d9de8d9c8ce066d3, type: 2}
+    text: Houston, this is Eagle One. Do you copy?
+  - character: {fileID: 11400000, guid: 69cbdde0c7a101c4ebbada1a45162753, type: 2}
+    text: Loud and clear, Eagle One. What's your status?
+  - character: {fileID: 11400000, guid: ddbdffcc0a065ef4d9de8d9c8ce066d3, type: 2}
+    text: We've encountered some unexpected debris. Looks like we're in an asteroid
+      belt.
+  - character: {fileID: 11400000, guid: 69cbdde0c7a101c4ebbada1a45162753, type: 2}
+    text: Copy that, Eagle One. Proceed with caution. We're tracking your coordinates.
+      Keep us updated on your trajectory.
+  - character: {fileID: 11400000, guid: ddbdffcc0a065ef4d9de8d9c8ce066d3, type: 2}
+    text: Roger that, Houston. Maneuvering through the belt now. It's a bit rocky
+      out here.
+  - character: {fileID: 11400000, guid: 69cbdde0c7a101c4ebbada1a45162753, type: 2}
+    text: Understood, Eagle One. Take it slow and steady. We'll guide you through.
+  - character: {fileID: 11400000, guid: ddbdffcc0a065ef4d9de8d9c8ce066d3, type: 2}
+    text: Copy, Houston. Thanks for the support. Eagle One out.
